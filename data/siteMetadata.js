@@ -1,8 +1,8 @@
 const siteMetadata = {
-  title: '움직이지 않으면 결과도 없다.',
+  title: '움직이지 않으면 결과도 없다',
   author: 'YouHaveToDo',
-  headerTitle: 'YouHaveToDoBlog',
-  description: '내가 공부한 것을 공유합니다.',
+  headerTitle: 'My Blog',
+  description: '제가 공부한 것을 공유합니다.',
   language: 'kr',
   theme: 'system', // system, dark or light
   siteUrl: 'https://www.youhavetodo.xyz',
