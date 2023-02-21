@@ -92,11 +92,11 @@ images: []
 
   - [2.1.1. CPU와 GPU의 차이](https://sdc-james.gitbook.io/onebook/2.-1/1./1.1.1.-cpu-gpu)
 
-<br>
+<br/>
 
 ---
 
-##### 해당 스터디는 팀원들과 함께 진행한 스터디이기에 모든 장을 혼자서 발표한 것이 아닙니다.<br>
+##### 해당 스터디는 팀원들과 함께 진행한 스터디이기에 모든 장을 혼자서 발표한 것이 아닙니다.<br/>
 
 ##### 다른 장도 궁금하다면 [노션](https://amplified-neptune-cfd.notion.site/HBT-ede9d443e5484d07b4ee305a9106751a)을 방문해주세요 :)
 
