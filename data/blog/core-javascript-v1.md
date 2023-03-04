@@ -32,7 +32,7 @@ images: []
 
 ### 1-3-1 변수 선언
 
-```jsx
+```javascript
 var a
 ```
 
@@ -46,7 +46,7 @@ var a
 
 변수는 데이터를 담는 그릇이라고 했으니, 데이터를 담아보자.
 
-```jsx
+```javascript
 var a
 a = 'abc'
 
@@ -99,7 +99,7 @@ var a = 'abc'
 
 예시를 보자.
 
-```jsx
+```javascript
 var obj1 = {
   a: 1,
   b: 'bbb',
@@ -122,7 +122,7 @@ obj1.a = 2
 
 만약 이 상태에서 아래의 경우와 같이 재할당을 하면 어떻게 될까.
 
-```jsx
+```javascript
 obj.arr = 'str'
 ```
 
@@ -140,7 +140,7 @@ obj.arr = 'str'
 
 변수를 복사 할 경우
 
-```jsx
+```javascript
 var a = 10
 var b = a
 
@@ -154,7 +154,7 @@ var obj2 = obj1
 
 변수 복사 이후 값을 변경 할 경우 - 객체의 프로퍼티를 변경했을 때
 
-```jsx
+```javascript
 var a = 10
 var b = a
 var obj1 = { c: 10, d: 'ddd' }
@@ -172,7 +172,7 @@ obj2.c = 20
 
 변수 복사 이후 값을 변경 할 경우 - 객체 자체를 변경했을 때
 
-```jsx
+```javascript
 var a = 10;
 var b = a;
 var obj1 = { c: 10, d:’ddd’ };
@@ -233,7 +233,7 @@ obj2 = { c:20, d:'ddd' };
   2. 객체 내부에 존재하지 않는 프로퍼티에 접근하려고 할 때
   3. return 문이 없거나 호출되지 않는 함수의 실행결과
 
-  ```jsx
+  ```javascript
   var a
   console.log(a) // (1) undefined. 값을 대입하지 않은 변수에 접근
 
